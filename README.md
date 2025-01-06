@@ -10,8 +10,8 @@ The goal of this repository is to provide a elementary resource for students and
 ## Usage
 1. Clone the repository:
    
-   git clone https://github.com/RaianRashidRimon/Numerical-Method.git
-2. Navigate to the folder and run the desired code in your preferred compiler or IDE.
+   git clone https://github.com/RaianRashidRimon/Data-Structure.git
+3. Navigate to the folder and run the desired code in your preferred compiler or IDE.
 
 ## Contribution
 Contributions are welcome! If you spot an issue or have suggestions, feel free to open an issue or a pull request.
